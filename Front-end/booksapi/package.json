@@ -1,0 +1,15 @@
+{
+  "name": "booksapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nuxt",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "nuxt": "^2.15.8"
+  }
+}
